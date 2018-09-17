@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/calc.jpg</file>
+        <file>image/auto.png</file>
+    </qresource>
+</RCC>
